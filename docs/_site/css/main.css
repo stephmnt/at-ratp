@@ -8,10 +8,33 @@ dl, dd, ol, ul, figure {
   padding: 0; }
 
 /**
+ * Add some fun
+ */
+.latex sub {
+  vertical-align: -0.1ex;
+  margin-left: -0.1667em;
+  margin-right: -0.025em; }
+
+.xetex sub {
+  vertical-align: -0.1ex;
+  margin-left: -0.1667em;
+  margin-right: -0.125em; }
+
+.latex sub, .latex sup, .xetex sub {
+  font-size: 0.9em;
+  text-transform: uppercase; }
+
+.latex sup {
+  font-size: 0.85em;
+  vertical-align: -0.2em;
+  margin-left: -0.26em;
+  margin-right: -0.05em; }
+
+/**
  * Basic styling
  */
 body {
-  font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 400 16px/1.5 serif;
   color: #111;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
