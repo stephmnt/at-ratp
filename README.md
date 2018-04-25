@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## Run docs in local
 
-You can use the [editor on GitHub](https://github.com/stephmnt/at-ratp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The presentation run [Jekyll](https://jekyllrb.com/). You can get it on line with the following link [stephnmnt.github.io/at-ratp](https://stephnmnt.github.io/at-ratp/). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you have cloned this repo and prefer run the presentation in your local host, you may use the following instruction in a terminal.
+
+```console
+cd docs
+bundle exec jekyll serve
+```
+And then run http://localhost:4000
 
 ### Markdown
 
@@ -27,11 +33,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stephmnt/at-ratp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
