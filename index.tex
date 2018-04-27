@@ -1,0 +1,32 @@
+\documentclass{report}
+\pagestyle{headings}
+
+\usepackage[latin1]{inputenc}   % codage du fichier source
+\usepackage[T1]{fontenc}      % codage des fontes TeX
+\usepackage[french]{babel}  % document en français
+\usepackage{ifpdf}
+
+\ifpdf
+\pdfinfo{
+  /Author (Stéphane Manet)
+  /Title (Super titre à placer ici)
+  /Subject (Analyse du travail et didactique professionnelle à la RATP)
+  /Keywords (LaTeX ATDC CNAM)}
+\usepackage[pdftex,hyperindex,colorlinks=true]{hyperref}
+\else
+\usepackage[hypertex=true,hyperindex=true,colorlinks=false]{hyperref}
+\fi
+
+%\includeonly{intro-II,  outillage,cosmetique,jouets}
+%\includeonly{pdf,memento,symboles,production}
+%
+%\includeonly{jouets,pdf}
+
+\begin{document}
+	
+	\tableofcontents
+	\include{texs/intro}
+	\bibliographystyle{plain}
+	\bibliography{fad111.bib,fad114.bib,fad115.bib}
+
+\end{document}
