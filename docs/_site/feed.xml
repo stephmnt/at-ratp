@@ -1,30 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
+    <title>FAD111</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>https://stephmnt.github.io/</link>
-    <atom:link href="https://stephmnt.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 30 Apr 2018 16:27:03 +0200</pubDate>
-    <lastBuildDate>Mon, 30 Apr 2018 16:27:03 +0200</lastBuildDate>
+    <link>https://stephmnt.github.io/at-ratp/</link>
+    <atom:link href="https://stephmnt.github.io/at-ratp/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 30 Apr 2018 16:32:19 +0200</pubDate>
+    <lastBuildDate>Mon, 30 Apr 2018 16:32:19 +0200</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
         <title>Comparaison propas</title>
-        <description>&lt;p&gt;#Comparaison propas&lt;/p&gt;
-
-&lt;p&gt;En suivant les recommandations de Stéphane Balas après lui avoir soumis ma “propagande”, je l’ai adapté avant de l’envoyer officiellement le 11 avril.&lt;/p&gt;
+        <description>&lt;p&gt;En suivant les recommandations de Stéphane Balas après lui avoir soumis ma “propagande”, je l’ai adapté avant de l’envoyer officiellement le 11 avril.&lt;/p&gt;
 
 &lt;p&gt;Ce jour le 30, je n’ai toujours pas de réponses, les vacances auront jouée sûrement mais je fais toute de sorte de relance dès ce jour.&lt;/p&gt;
 
 &lt;p&gt;En attendant, je met dans les annexes du projet les versions de mes propagandes au format texte afin de permettre leur comparaison via github.com.&lt;/p&gt;
 
-&lt;p&gt;Ce qu’on appelle un “commit” dans le jargon. &lt;a href=&quot;https://github.com/stephmnt/at-ratp/commit/715b159048c0d5624498e9757057582034243e36?diff=split&quot;&gt;CLiquer ici pour le consulter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ce qu’on appelle un “commit” dans le jargon. &lt;a href=&quot;https://github.com/stephmnt/at-ratp/commit/715b159048c0d5624498e9757057582034243e36?diff=split&quot;&gt;Cliquer ici pour le consulter&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 30 Apr 2018 15:34:57 +0200</pubDate>
-        <link>https://stephmnt.github.io/projet/2018/04/30/comparaison-propa.html</link>
-        <guid isPermaLink="true">https://stephmnt.github.io/projet/2018/04/30/comparaison-propa.html</guid>
+        <link>https://stephmnt.github.io/at-ratp/projet/2018/04/30/comparaison-propa.html</link>
+        <guid isPermaLink="true">https://stephmnt.github.io/at-ratp/projet/2018/04/30/comparaison-propa.html</guid>
         
         
         <category>Projet</category>
@@ -37,8 +35,8 @@
 
 </description>
         <pubDate>Mon, 23 Apr 2018 17:34:57 +0200</pubDate>
-        <link>https://stephmnt.github.io/latex/2018/04/23/ifpdf.html</link>
-        <guid isPermaLink="true">https://stephmnt.github.io/latex/2018/04/23/ifpdf.html</guid>
+        <link>https://stephmnt.github.io/at-ratp/latex/2018/04/23/ifpdf.html</link>
+        <guid isPermaLink="true">https://stephmnt.github.io/at-ratp/latex/2018/04/23/ifpdf.html</guid>
         
         
         <category>LaTeX</category>
@@ -63,8 +61,8 @@
 
 </description>
         <pubDate>Mon, 23 Apr 2018 17:34:57 +0200</pubDate>
-        <link>https://stephmnt.github.io/jekyll/update/2018/04/23/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">https://stephmnt.github.io/jekyll/update/2018/04/23/welcome-to-jekyll.html</guid>
+        <link>https://stephmnt.github.io/at-ratp/jekyll/update/2018/04/23/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://stephmnt.github.io/at-ratp/jekyll/update/2018/04/23/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
