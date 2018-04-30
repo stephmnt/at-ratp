@@ -6,6 +6,13 @@
 \usepackage[french]{babel}  % document en français
 \usepackage{ifpdf}
 
+\usepackage{lmodern} % Pour changer le pack de police
+\usepackage{makeidx}
+
+\makeindex
+\title{Super titre}
+\author{\textsc{Manet} Stéphane}
+
 \ifpdf
 \pdfinfo{
   /Author (Stéphane Manet)
@@ -23,6 +30,11 @@
 %\includeonly{jouets,pdf}
 
 \begin{document}
+
+\begin{abstract}
+Le résumé (abstract en anglais) de mon article.
+\end{abstract}
+\maketitle
 	
 	\tableofcontents
 	\include{texs/intro}
