@@ -1,5 +1,5 @@
 #Analyse du travail et FEST
-AVEC LES TECHNICIENS DE MAINTENANCE DE LA RATP
+_Avec les techniciens de maintenance de la RATP_
 Actuellement auditeur au CNAM en formation sur la didactique professionnelle et les dispositifs FEST, je souhaite pouvoir réaliser une étude chez vous avec les techniciens de maintenance de la RATP.
 
 ##Donner du sens, gagner du temps
@@ -8,18 +8,18 @@ Elle permet une approche beaucoup plus fine du concept de « travail » et de fa
 ##Préparer aujourd’hui les enjeux de demain
 Chacun connait et pratique l’apprentissage en situation de travail. Tout nouveau collaborateur se fait épauler par un collègue ou un manager en intégrant son poste de travail. Mais pour la première fois, ce concept va être formalisé, normé et intégré au plan de formation. Ainsi, à l’heure des évolutions de la formation, notamment la FOAD, il faut pouvoir accompagner les nouveaux dispositifs sur le « terrain ». Il ne s’agit plus de faire des formations sur le tas, mais bien de les associer à une intention pédagogique, avec des objectifs, un programme.
 La Formation en Situation de Travail (FEST) est un dispositif qui permet la transformation de ces temps en un réel apprentissage objectivé mais pour être efficiente, elle doit coller au plus près de la réalité du terrain.
-#Méthode et organisation
-##Premier jour, rencontre avec les services
+##Méthode et organisation
+###Premier jour, rencontre avec les services
 Je viens à votre rencontre afin de définir avec vous les enjeux sur la profession ciblée. Evolutions des carrières, gestion prévisionnelle des emplois et compétences, historique du métier. Ce rendez-vous permettra également de définir le cadre de mon intervention.
-##Deuxième jour, rencontre avec les collaborateurs
+###Deuxième jour, rencontre avec les collaborateurs
 Pour une demi-journée (de nuit si nécessaire) je viens observer le travail des collaborateurs afin de déterminer quel geste technique pourra faire l’objet d’une analyse. Idéalement, il s’agit d’une situation critique, un dilemme, et plus spécifiquement dans le cadre de mon intervention, qui fasse l’objet d’une transmission entre anciens et débutants.
 Le geste technique sera filmé afin de le restituer aux collaborateurs qui l’ont effectué.
-##Troisième jour, analyse réflexive du travail
+###Troisième jour, analyse réflexive du travail
 Dans un troisième temps, je souhaite réaliser un entretien d’auto-confrontations croisées [(2)](#2). Ce dispositif permettra de mesurer l’écart entre les différentes opérations. En invitant les collaborateurs à échanger et commenter leur pratique filmée préalablement, je déterminerai les concepts organisateurs et les invariants opératoires de la situation de travail.
 Ces données seront le point de départ de la réflexion sur la formation en situation de travail.
-#Contact
+##Contact
 Si vous partagez avec moi la curiosité des métiers qui sont les vôtres et souhaitez entamer cette expérience, je vous invite à me contacter dès à présent.
 En l’attente, je vous prie d’agréer mes respectueuses salutations.
-Stéphane Manet
+**Stéphane Manet**
 <a id="1">1</a> Pierre Pastré. La didactique professionnelle. Approche anthropologique du développement chez les adultes. Presses Universitaires de France, 2011
 <a id="2">2</a> Yves Clot, Daniel Faïta, Gabriel Fernandez et Livia Scheller, « Entretiens en autoconfrontation croisée : une méthode en clinique de l’activité », 2000
