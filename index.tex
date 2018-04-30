@@ -5,6 +5,7 @@
 \usepackage[T1]{fontenc}      % codage des fontes TeX
 \usepackage[french]{babel}  % document en français
 \usepackage{ifpdf}
+\usepackage{pdfpages} % intègre mes pdf dans les annexes 
 
 \usepackage{lmodern} % Pour changer le pack de police
 \usepackage{makeidx}
@@ -42,10 +43,15 @@
 
 \mainmatter
 
+\include{fad11.tex}
+\part{Analyse du travail et ingénierie de la formation professionnelle}
+\chapter{lorem}
 Contenu :D %faire include main
-
+\part{Dévelopememnt des compétences}
+\part{Analyse du travail}
 \appendix
-   
+
+\include{annexes/annexes}
 \include{biblio/biblio}
 
 \backmatter
