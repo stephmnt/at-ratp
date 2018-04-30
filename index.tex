@@ -1,4 +1,4 @@
-\documentclass{report}
+\documentclass{book}
 \pagestyle{headings}
 
 \usepackage[latin1]{inputenc}   % codage du fichier source
@@ -29,16 +29,28 @@
 %
 %\includeonly{jouets,pdf}
 
+
 \begin{document}
 
-\begin{abstract}
-Le résumé (abstract en anglais) de mon article.
-\end{abstract}
-\maketitle
+\maketitle %page de garde
 	
-	\tableofcontents
-	\include{texs/intro}
-	\bibliographystyle{plain}
-	\bibliography{fad111.bib,fad114.bib,fad115.bib}
+\tableofcontents %sommaire
+	
+\frontmatter %on attaque l'intro
+
+\include{texs/intro}
+
+\mainmatter
+
+Contenu :D %faire include main
+
+\appendix
+   
+\include{biblio/biblio}
+
+\backmatter
+
+Epilogue
+
 
 \end{document}
