@@ -1,3 +1,4 @@
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -6,10 +7,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Analyse du travail et développement des compétences
-email: your-email@domain.com
+title: Rapports FAD11, FAD114 et FAD115 au CNAM
+email: stephane.manet.auditeur@lecnam.net
 description: > # this means to ignore newlines until "baseurl:"
-Youll find there my biggest report (and first kind of memoir) for the CNAM just right there. As i can i will propose my documentation about LaTeX in english, but i will explain my project in french, my poor teachers still need to practice ther english.
+Analyse du travail et développement des compétences à la RATP.
 baseurl: "/at-ratp" # the subpath of your site, e.g. /blog
 url: "https://stephmnt.github.io" # the base hostname & protocol for your site
 twitter_username: stephanemanet
