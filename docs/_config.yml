@@ -9,7 +9,7 @@
 title: Analyse du travail et développement des compétences
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-You'll find there my biggest report (and first kind of memoir) for the CNAM just right there. As i can i will propose my documentation about LaTeX in english, but i will explain my project in french, my poor teachers still need to practice ther english.
+Youll find there my biggest report (and first kind of memoir) for the CNAM just right there. As i can i will propose my documentation about LaTeX in english, but i will explain my project in french, my poor teachers still need to practice ther english.
 baseurl: "/at-ratp" # the subpath of your site, e.g. /blog
 url: "https://stephmnt.github.io" # the base hostname & protocol for your site
 twitter_username: stephanemanet
