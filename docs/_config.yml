@@ -8,6 +8,6 @@ name: "Stéphane Manet"
 markdown: kramdown
 permalink: none
 kramdown:
-  parse_block_html: true
+  parse_block_html: true 
 gems:
   - jekyll-paginate
