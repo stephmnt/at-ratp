@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: À propos
 permalink: /about/
 ---
 
@@ -19,7 +19,7 @@ Et de mon point de vue, il me permet de faire des hypothèses (des branches) que
 
 Il me permet de mettre à disposition mon travail avec une licence copyleft.
 
-## À propos de laTeX
+## À propos de LaTeX
 
 Je fais le choix de LaTeX pour la rédaction de mon rapport pour plusieurs raisons, indépendemment de l'entrainement pour l'an prochain que j'ai déjà mentionné.
 
@@ -28,4 +28,4 @@ Je fais le choix de LaTeX pour la rédaction de mon rapport pour plusieurs raiso
 
 ## À propos de jekyll
 
-Entres autres services que propose github, il peut notamment générer automatiquement un site internet (le présent site que vous consultez actuellement) à partir du projet. Il suffit de créer un dossier /docs à la racine de son projet et d'y installer [Jekyll](https://jekyllrb.com/). J'y incluerai régulièrement soit quelques remarques sur les "<acronym="Les jalons... l'expression en anglais fait référence aux bornes kilométriques">milestones</acronym>" du projet, soit quelques astuces LaTeX dont j'aurai eu besoin au fur et à mesure.
+Entres autres services que propose github, il peut notamment générer automatiquement un site internet (le présent site que vous consultez actuellement) à partir du projet. Il suffit de créer un dossier /docs à la racine de son projet et d'y installer [Jekyll](https://jekyllrb.com/). J'y incluerai régulièrement soit quelques remarques sur les "milestones{% sidenote sideLes jalons... l'expression en anglais fait référence aux bornes kilométriques. %}" : du projet, soit quelques astuces LaTeX dont j'aurai eu besoin au fur et à mesure.
