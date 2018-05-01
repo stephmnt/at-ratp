@@ -28,4 +28,4 @@ Je fais le choix de LaTeX pour la rédaction de mon rapport pour plusieurs raiso
 
 ## À propos de jekyll
 
-Entre autres services que propose GitHub, il peut notamment générer automatiquement un site internet (le présent site que vous consultez actuellement) à partir du projet. Il suffit de créer un dossier /docs à la racine de son projet et d'y installer [Jekyll](https://jekyllrb.com/). J'y inclurai régulièrement soit quelques remarques sur les "milestones{% sidenote side1 Les jalons... l'expression en anglais fait référence aux bornes kilométriques. %}" : du projet, soit quelques astuces LaTeX dont j'aurai eu besoin au fur et à mesure.
+Entre autres services que propose GitHub, il peut notamment générer automatiquement un site internet (le présent site que vous consultez actuellement) à partir du projet. Il suffit de créer un dossier /docs à la racine de son projet et d'y installer [Jekyll](https://jekyllrb.com/). J'y inclurai régulièrement soit quelques remarques sur les "milestones" : du projet, soit quelques astuces LaTeX dont j'aurai eu besoin au fur et à mesure.
