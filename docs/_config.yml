@@ -1,8 +1,8 @@
 title: Rapport d'analyse du travail
 description: >
   Analyse du travail et développement des compétences à la RATP
-baseurl: ""
-url: "localhost:4000"
+baseurl: "/at-ratp"
+url: "stephmnt.github.io"
 paginate:	2 # The number of posts to show per page on your homepage
 name: "Stéphane Manet"
 markdown: kramdown
